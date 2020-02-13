@@ -1,1 +1,0 @@
-* [http://glinkdatainc.s3-website-us-east-1.amazonaws.com/](http://glinkdatainc.s3-website-us-east-1.amazonaws.com/)
