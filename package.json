@@ -1,0 +1,14 @@
+{
+  "name": "@geoffreylink/temporal-force-directed-graph",
+  "main": "dd8cf9117be0a450@255.js",
+  "version": "255.0.0",
+  "homepage": "https://observablehq.com/@geoffreylink/temporal-force-directed-graph",
+  "author": {
+    "name": "Geoffrey Link",
+    "url": "https://observablehq.com/@geoffreylink"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
