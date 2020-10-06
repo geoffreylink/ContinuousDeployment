@@ -1,10 +1,5 @@
 export default function define(runtime, observer) {
   const main = runtime.module();
-  main.variable(observer()).define(["md"], function(md){return(
-md`# Collision Detection
-
-This example uses [d3.forceCollide](https://github.com/d3/d3-force/blob/master/README.md#collision) to prevent circles from overlapping.`
-)});
   main.variable(observer("chart")).define("chart", ["DOM","width","height","data","d3","invalidation","color"], function(DOM,width,height,data,d3,invalidation,color)
 { 
   const context = DOM.context2d(width, height);
