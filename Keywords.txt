@@ -1,0 +1,15 @@
+Keywords used to describe my technical skillset include:
+
+• Language Processing -> Classification, Sentiment, Embeddings, Inference, Overfitting
+• Time Series Analysis -> Temporal Mining, Seasonal, Survival, Churn, Attribution, Segmentation
+• Statistical Modelling -> Stochastic, GLMs, Dimension Reduction, Regression, Statistical Power
+• Media Optimization -> Personalization, Recommendation, Propensity, Journey, Predictive
+• Machine Learning -> Supervised/Unsupervised, PySpark, MLlib, Sensitivity Analysis
+• Data Engineering -> Cloud Formation, Continuous Deployment, Self-Healing, Serverless
+• Computer Vision -> OpenCV, Rekognition
+• Graph Analysis -> Neo4j, Neptune
+• Deep Learning -> Neural Networks, TensorFlow, Keras, RNN, LSTM, Grid Search, Activation
+• Visualizations -> Plotly, Seaborn, Bokeh, Matplotlib, Grafana, Jupyter, D3.js, Tableau
+• Tuning-> MSE, Log-Loss, Cross-Entropy, Bias-Variance, Precision-Recall, Hyper-Parameter
+• Python -> Numpy, Scipy, Pandas, Scikit-Learn, Clustering, Cross Validation, Regularization
+-
