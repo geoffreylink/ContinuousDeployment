@@ -47,7 +47,7 @@ export default function define(runtime, observer) {
 {
   const k = width / 200;
   const r = d3.randomUniform(k, k * 4);
-  // return Array.from({length: 200}, (_, i) => ({r: r(), group: i && (i % n + 1)}));
+  return Array.from({length: 200}, (_, i) => ({r: r(), group: i && (i % n + 1)}));
 }
 );
   main.variable(observer("n")).define("n", function(){return(
