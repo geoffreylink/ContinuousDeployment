@@ -4,6 +4,9 @@ phases:
   install:
     commands:
       dnf module install nodejs:12
+  build:
+    commands:
+      - npm run build
 artifacts:
   files:
     - "**/*"
