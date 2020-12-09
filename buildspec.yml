@@ -2,7 +2,6 @@ version: 0.2
 phases:
   install:
     commands:
-      - yum install -y gcc-c++ make
       - npm install
   build:
     commands:
